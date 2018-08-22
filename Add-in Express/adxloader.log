@@ -1,0 +1,64 @@
+Add-in Express Loader Log File: 08/20/2018 22:29:00:234
+
+Startup directory: C:\Users\kumar.ganapathi\AppData\Roaming\Accenture\Accenture External E-mail Validation Add-in\
+Loader version: 8.4.4395.0
+Operating System: Microsoft Windows 10 Enterprise Edition (build 16299), 64-bit
+Process Owner: User
+Command Line: "C:\Program Files (x86)\Microsoft Office\root\Office16\OUTLOOK.EXE" 
+Run 'As Administrator': No
+Process Elevated: No
+Integrity Level: Medium
+UAC (User Account Control): On
+------------------------------------------------------------------------
+22:29:00:241 8400 2100 Start.
+22:29:00:241 8400 2100 The minimum supported Office version is 14
+22:29:00:246 8400 2100 The host's version is 16.0.9126.2259
+22:29:00:246 8400 2100 Creating a new instance of the add-in loader.
+22:29:00:246 8400 2100 Loading mscoree.dll
+22:29:00:252 8400 2100 Success.
+22:29:00:252 8400 2100 Loading the configuration from the system registry.
+22:29:00:253 8400 2100 Getting the latest CLR version.
+22:29:00:260 8400 2100 The latest CLR version is 'v4.0.30319'.
+22:29:00:260 8400 2100 The configuration has been loaded successfully.
+22:29:00:260 8400 2100     Runtime version: v4.0.30319.
+22:29:00:260 8400 2100     Assembly name: AccentureExternalEmailValidationAddin, PublicKeyToken=59EF70C0F1A5799A.
+22:29:00:260 8400 2100     Class name: AccentureExternalEmailValidationAddin.AddinModule.
+22:29:00:260 8400 2100     Registry key: CLSID\{6A2F6AE5-C934-4614-B61B-538C54D11A87}.
+22:29:00:866 8400 2100 Attempting to create a new instance of the managed add-in class: CLR - v4.0.30319
+22:29:00:868 8400 2100 Loading CLR: v4.0.30319.
+22:29:00:868 8400 2100 Calling CLRCreateInstance method.
+22:29:00:868 8400 2100 Success.
+22:29:00:868 8400 2100 Calling GetRuntime method.
+22:29:00:869 8400 2100 Success.
+22:29:00:869 8400 2100 Checking if the hosting API of .NET Framework v4.0 beta is installed.
+22:29:00:949 8400 2100 The hosting API is up to date.
+22:29:00:949 8400 2100 Calling GetInterface method for the CorRuntimeHost interface.
+22:29:00:949 8400 2100 Success.
+22:29:00:949 8400 2100 Starting CLR...
+22:29:00:949 8400 2100 Success.
+22:29:00:949 8400 2100 Getting the CLR version.
+22:29:00:949 8400 2100 The CLR v4.0.30319 has been initialized successfully.
+22:29:00:949 8400 2100 Creating a new domain setup.
+22:29:00:958 8400 2100 Success.
+22:29:00:958 8400 2100 Getting the add-in directory.
+22:29:00:959 8400 2100 Success. The directory is 'C:\Users\kumar.ganapathi\AppData\Roaming\Accenture\Accenture External E-mail Validation Add-in\'
+22:29:00:968 8400 2100 The 'shadow copy' is disabled.
+22:29:00:968 8400 2100 Creating a new application domain.
+22:29:00:984 8400 2100 Success.
+22:29:00:984 8400 2100 Creating an instance of the managed class. Assembly identity: 'AccentureExternalEmailValidationAddin, PublicKeyToken=59EF70C0F1A5799A'
+22:29:01:151 8400 2100 Success.
+22:29:01:151 8400 2100 Unwrapping the managed class.
+22:29:01:270 8400 2100 Success.
+22:29:01:270 8400 2100 Querying the add-in extensibility.
+22:29:01:271 8400 2100 Success.
+22:29:01:271 8400 2100 Querying the custom task panes.
+22:29:01:271 8400 2100 Success.
+22:29:01:271 8400 2100 Querying the ribbon extensibility.
+22:29:01:271 8400 2100 Success.
+22:29:01:272 8400 2100 Querying the form regions.
+22:29:01:272 8400 2100 Success.
+22:29:01:272 8400 2100 Querying the encryption provider.
+22:29:01:272 8400 2100 The 'EncryptionProvider' interface is not supported.
+22:29:01:272 8400 2100 Getting the dispid of the 'Dispose' method.
+22:29:01:275 8400 2100 Success.
+22:29:01:275 8400 2100 The instance of the managed add-in class has been created successfully.

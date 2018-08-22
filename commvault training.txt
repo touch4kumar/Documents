@@ -1,0 +1,24 @@
+Deduplication
+backup and archive
+ENT level virtual infra protection
+
+
+Commserver==> heart of the system
+MediaAgent==> muscle of the system
+client ==> safaegaurd
+
+
+Admin Console
+
+A powerfull web-based user interface that provides a simpified, service-oriented approach to
+ protecting your on premises and cloud infrastructure
+
+Agentless:
+is agentless it works at vmdk level with the integration of snapshot of vmware
+
+VSA:
+Virtual server agent is a rule insalled on Media Agent that allow the backup agentless 
+
+Agent Install :
+For DB or backup of FS 
+
